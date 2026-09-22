@@ -1,6 +1,6 @@
 # 🛡️ BlueTeam Portfolio - SOC Analyst Journey
 
-Hi, I am **Aisha Sadiqa** 👋
+Hi, I am **Aisha** 👋
 Aspiring SOC Analyst | Learning Cybersecurity from scratch
 
 This repository is my 100 Days Blue Team Challenge where I am learning to become a SOC Analyst. I am writing all code by myself.
