@@ -18,7 +18,7 @@ On Day 16, I built a SOC Log Analyzer using Python.
 
 **Files in this project:**
 - `soc_log.py` - Main analyzer code
-- `day16.py` - Practice version
+- `day16_practice.py` - Practice version
 - `company_log.txt` - Sample logs
 
 **How to run:**
