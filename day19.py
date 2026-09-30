@@ -13,4 +13,4 @@ def analyze_logs(ip_address):
         print(f"ALERT: {ip_address} found!")
     else:
         print("Logs are clean")
-        
+analyze_logs("203.45.67.89")        
