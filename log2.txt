@@ -1,0 +1,4 @@
+[12:10] login failed user sara-khan@gmail.com from 192.168.1.10
+[12:11] alert ali@mail.com from 10.0.0.5
+[12:15] login success user admin@company.co.uk from 8.8.8.8
+[12:20] alert test123@biogen.com from 172.16.0.1
