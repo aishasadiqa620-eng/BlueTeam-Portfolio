@@ -1,26 +1,32 @@
-# 🛡️ BlueTeam Portfolio - SOC Analyst Journey
 
-Hi, I am **Aisha** 👋
-Aspiring SOC Analyst | Learning Cybersecurity from scratch
+# 🛡️ BlueTeam Portfolio - SOC Analyst Level 1 Journey
 
-This repository is my 100 Days Blue Team Challenge where I am learning to become a SOC Analyst. I am writing all code by myself.
+> Learning in Public | Python for Blue Team | Day 16 to Day 30 Challenge
 
----
+Hi, I'm **Aisha**, an aspiring SOC Analyst. This repository documents my hands-on learning journey in Blue Teaming, focusing on Log Analysis, Threat Detection, and Python Automation.
 
-### 📅 Day 16: SOC Log Analyzer
+### 🎯 Goal
+To become a SOC Analyst L1 by building real-world detection tools in Python.
 
-On Day 16, I built a SOC Log Analyzer using Python.
+### 📂 Projects Structure
 
-**What it does:**
-- Reads a fake company log file (`company_log.txt`)
-- Detects suspicious activities like Failed Login, Unauthorized Access
-- Generates a simple security report
+| Day | Project | What I Learned |
+| :--- | :--- | :--- |
+| **Day 16** | **SOC Log Analyzer** | Parsing logs, detecting suspicious activity |
+| **Day 17** | **BruteForce Detector** | Detecting failed logins, threshold based alerts |
+| **Day 18** | **IP Analyzer** | Extracting & analyzing malicious IPs |
+| **Day 19** | **Function Based Detection** | Writing reusable security functions |
+| **Day 20** | **Import & Modular Code** | Using Python modules for SOC tools |
+| **Day 21** | **Log Parser** | Advanced log parsing with automation |
 
-**Files in this project:**
-- `soc_log.py` - Main analyzer code
-- `day16_practice.py` - Practice version
-- `company_log.txt` - Sample logs
+### 🛠️ Skills Covered
+- Python for Security
+- Log Analysis & Parsing
+- Brute Force & Anomaly Detection
+- GitHub & Version Control
+- SOC Analyst Mindset
 
-**How to run:**
+### 🚀 How to Run
 ```bash
-python soc_log.py
+cd Day-17-BruteForce-Detector
+python day17.py
